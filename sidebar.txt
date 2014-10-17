@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksy:home|Door43 (ksy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksy|d43-ksy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksy/archive/master.zip|d43-ksy.zip]]
+
+**Recent Changes**
+{{changes>ns = ksy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksy|Ethnologue data]]
+
